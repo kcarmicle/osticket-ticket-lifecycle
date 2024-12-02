@@ -46,9 +46,17 @@ The user will be taken to a page where they can fill out their information and d
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/4BKQxSQ.png" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Once logged in to osTicket's agent portal, open tickets can begin being worked on.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/0QuO8cK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Once a ticket is selected, it can be assigned to an agent or team. It can also be assigned a priority and SLA. From there, agent or team can work with the customer to resolve the ticket. 
 </p>
 <br />
